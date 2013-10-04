@@ -119,8 +119,7 @@ USAGE
             #skip first two rows - table header and year column headers
             #also skip last row - footer
             rows = table.findAll('tr')
-            if(len(rows) != 21):
-                print len(rows)
+            if(len(rows) != 24):
                 if verbose > 0:
                     print "Missing data for zip %s" % szip
                 continue
