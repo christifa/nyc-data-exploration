@@ -1,0 +1,1 @@
+./irs_table_scraper.py -z=zip_codes0.csv  -o=zip_codes0_out.csv -v=1
