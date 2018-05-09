@@ -12,7 +12,7 @@ IRS data for those scrips from www.melissadata.com
         
 @license:    Apache License 2.0
 
-@contact:    algomorph@gmail.com
+@contact:    GitHub: Algomorph
 @deffield    updated: Updated
 '''
 
